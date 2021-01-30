@@ -9,3 +9,4 @@
 ## todos
 
 - [ ] swap from json to csv for processing pipeline
+- [ ] label "maybes" to 0.5 for regression
